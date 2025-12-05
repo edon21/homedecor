@@ -1,0 +1,6 @@
+.best_seller_font{
+    font-family: "Playfair Display", Georgia, serif;
+    color: black; 
+    font-weight: 200;
+    /* text-transform: uppercase !important */
+}

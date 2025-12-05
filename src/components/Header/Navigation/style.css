@@ -1,0 +1,15 @@
+.categoryPanel button{
+    text-transform: capitalize !important;
+}
+
+.link{
+    text-transform: capitalize !important;
+}
+
+.categoryPanel button:hover{
+     color: #dad9d4 !important;
+}
+
+/* .categoryPanel .submenu{
+    display: none;
+} */

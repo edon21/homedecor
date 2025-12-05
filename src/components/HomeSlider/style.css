@@ -1,0 +1,25 @@
+
+section .HeadingName{
+  font-family: "Playfair Display", Georgia, serif;
+  color: rgb(255, 255, 255);
+  text-transform: uppercase !important
+  
+}
+
+section .HeadingName_1{
+  font-family: "Playfair Display", Georgia, serif;
+  font-weight: 100;
+  color: rgb(255, 255, 255);
+  
+  
+}
+
+section .HeadingName_2{
+  font-family: "Playfair Display", Georgia, serif;
+  color: black;
+  padding: 8px;
+  cursor: pointer;
+  text-transform: uppercase !important
+  
+}
+

@@ -1,0 +1,28 @@
+.productSlider2{
+  overflow: inherit !important;
+}
+ .productSlider2 .swiper-button-prev, .swiper-button-next{
+  
+  align-items: center; 
+  justify-content: center;
+  background: none;
+  width:30px;
+  height:20px;
+  min-width: 20px;
+  color: black;
+  font-weight: 700;
+   outline: none;
+  
+}
+
+.productSlider2 .swiper-button-prev:after,.swiper-button-next:after{
+  font-size: 100px !important;
+  color: #000;
+  outline: none;
+}
+
+.productSlider2 .swiper-button-next:focus,
+.swiper-button-prev:focus {
+  outline: none;
+  box-shadow: none;
+}

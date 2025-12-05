@@ -1,0 +1,10 @@
+.productItem .title{
+    line-height: 20px;
+    
+}
+.productItem .oldPrice,.Price{
+    font-family: "Playfair Display", Georgia, serif;
+    
+}
+.productItem .action button:hover svg{color: #fff !important;}
+.productItem .action button svg{pointer-events: none !important;}
